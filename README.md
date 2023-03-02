@@ -1,4 +1,4 @@
-# DiamondDrop
+# Diamond Drop
 This is the code repository for the Atari 2600 game Diamond Drop.
 
 Development Thread: https://forums.atariage.com/topic/236086-diamond-drop/#comment-3194920
